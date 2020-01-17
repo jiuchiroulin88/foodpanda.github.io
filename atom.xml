@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jiuchiroulin88.github.io/foodpanda.github.io/</id>
     <title>Log on!</title>
-    <updated>2020-01-17T07:24:47.464Z</updated>
+    <updated>2020-01-17T07:26:32.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jiuchiroulin88.github.io/foodpanda.github.io/"/>
     <link rel="self" href="https://jiuchiroulin88.github.io/foodpanda.github.io/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://jiuchiroulin88.github.io/foodpanda.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Log on!</rights>
     <entry>
-        <title type="html"><![CDATA[Friday, Jan 17 2020 I lost HKD$0.5]]></title>
+        <title type="html"><![CDATA[Friday, Jan 17 2020// I lost HKD$0.5]]></title>
         <id>https://jiuchiroulin88.github.io/foodpanda.github.io/post/friday-jan-17-2020-i-lost-hkddollar05</id>
         <link href="https://jiuchiroulin88.github.io/foodpanda.github.io/post/friday-jan-17-2020-i-lost-hkddollar05">
         </link>
@@ -24,12 +24,13 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jan 16, 2019 Friday ]]></title>
+        <title type="html"><![CDATA[Thursday Jan 16, 2019// A Walker came by and talked to me...]]></title>
         <id>https://jiuchiroulin88.github.io/foodpanda.github.io/post/jan-16-2019-friday</id>
         <link href="https://jiuchiroulin88.github.io/foodpanda.github.io/post/jan-16-2019-friday">
         </link>
         <updated>2020-01-16T19:02:30.000Z</updated>
-        <content type="html"><![CDATA[<p>A middle-aged man stopped in front of me and initiated a conversation by asking how is the frequency of orders today.😁</p>
+        <content type="html"><![CDATA[<p>Shift: 13:45-15:45</p>
+<p>A middle-aged man stopped in front of me and initiated a conversation by asking how is the frequency of orders today.😁</p>
 ]]></content>
     </entry>
 </feed>
